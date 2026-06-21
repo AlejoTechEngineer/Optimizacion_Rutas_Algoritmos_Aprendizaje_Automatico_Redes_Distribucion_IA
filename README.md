@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 Optimización de Rutas con Algoritmos y Machine Learning  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Proyecto que implementa algoritmos de búsqueda informada para optimizar rutas de distribución en redes logísticas, minimizando costos y tiempos de entrega.
 
 ## 🛠️ Funcionalidades  
@@ -28,3 +35,12 @@ Proyecto que implementa algoritmos de búsqueda informada para optimizar rutas d
 
 ## 📌 Autor  
 👨‍💻 **Alejandro De Mendoza**
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
