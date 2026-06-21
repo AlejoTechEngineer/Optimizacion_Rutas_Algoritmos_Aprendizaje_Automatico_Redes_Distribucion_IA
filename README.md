@@ -38,6 +38,21 @@ Proyecto que implementa algoritmos de búsqueda informada para optimizar rutas d
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[main.py - Punto de Entrada] --> B[Python_De_Bogota_A_Leticia.py - Sin ML]
+    A --> C[Python_De_Bogota_A_Leticia_Con_ML.py - Con ML]
+    B --> D[Algoritmo A* - Busqueda Informada]
+    C --> E[Algoritmo Genetico - Optimizacion Evolutiva]
+    C --> F[Red Neuronal - Prediccion de Rutas]
+    D & E & F --> G[NetworkX - Grafo de Distribucion]
+    G --> H[Matplotlib - Visualizacion Rutas]
+    C --> I[(modelo_arbol_decision.pkl / modelo_regresion.pkl)]
+    H --> J[LaboratorioNo.2.pdf - Informe LaTeX]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
